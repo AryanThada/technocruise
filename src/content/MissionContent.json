@@ -1,0 +1,21 @@
+{
+  "title": "Android App Development",
+  "text": "Android is an open-source software stack for mobile devices, which includes an operating system, middleware, and key applications. Android's mobile operating system is based upon a modified version of the Linux kernel.",
+  "section": [
+    {
+      "title": "Benefits",
+      "content": "Understand the technicalities and gain practical knowledge of how to create a mobile app",
+      "icon": "android.svg"
+    },
+    {
+      "title": "Benefits",
+      "content": "Learn penetration on different devices, since Android is used almost everywhere by various companies",
+      "icon": "android2.svg"
+    },
+      {
+        "title": "Benefits",
+        "content": "Certificate of Participation for each participant from Techkriti, IIT Kanpur",
+        "icon": "certificate3.svg"
+      }
+  ]
+}

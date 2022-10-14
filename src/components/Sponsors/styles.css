@@ -1,0 +1,152 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,100&display=swap');
+
+
+body {
+  
+  background: black;
+  
+}
+
+.heading{
+  
+  margin-left: 36.63vw;
+  text-align: center;
+  margin-top: 9.627vw;
+  margin-bottom: 2vw; 
+  display: flex;
+  font-family: 'Cera Pro';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6.542vw;
+  line-height: 6.968vw;
+  color: white;
+}
+
+i{
+  filter: invert();
+  font-size: 18px;
+  
+}
+a{
+  margin: 12px;
+  
+}
+
+
+.titlespons{
+  
+  margin-left: 20.586vw;
+  margin-top: 6.651vw;
+  height: 5.542vw;
+  width: 57.007vw;
+
+
+}
+
+.graviton{
+  
+  margin-left: 25.337vw;
+  margin-top: 7.127vw;
+  height: 14.252vw;
+  width: 47.506vw;
+}
+
+
+
+.uptour{
+  margin-top: 8.076vw;
+  margin-left: 17.419vw;
+  width: 20.269vw; 
+  padding-bottom: 11.876vw;
+  height: 32.146vw;
+}
+
+.jk{
+  
+  margin-top: 8.076vw;
+  margin-left: 9.818vw;
+  width: 36.421vw; 
+  padding-bottom: 11.876vw;
+  height: 32.146vw;
+}
+
+@media (max-width: 900px) {
+  .heading{
+    margin-top: 14vw;
+    margin-left: 36vw;
+    font-size: 7.5vw;
+  }
+  .titlespons{
+    height: 7vw;
+    width: 76vw;
+    margin-left: 11vw;
+  }
+  .graviton{
+    width: 62vw;
+    height: 20vw;
+    margin-left: 18vw;
+  }
+  
+  .uptour{
+    
+    width: 28vw;
+    height: 40vw;
+    margin-left: 9vw;
+    padding-bottom: 12vw;
+  }
+  .jk{
+    
+    height: 40vw;
+    margin-left: 9vw;
+    width: 45vw;
+    padding-bottom: 12vw;
+  }
+}
+
+@media (max-width: 550px) {
+  .heading{
+    top: 50px;
+    margin-top: 14vw;
+    margin-left: 30vw;
+    font-size: 10vw;
+  }
+  .titlespons{
+    top: 30vw;
+    height: 10vw;
+    width: 88vw;
+    margin-left: 4vw;
+  }
+  .graviton{
+    top: 46vw;
+    width: 80vw;
+    height: 25vw;
+    margin-left: 8vw;
+  }
+ 
+  .uptour{
+    top: 145vw;
+    width: 46vw;
+    height: 61vw;
+    margin-left: 23vw;
+    padding-bottom: 15vw;
+  }
+  .jk{
+    margin-top: 0;
+    height: 55vw;
+    margin-left: 10.5vw;
+    width: 75vw;
+    padding-bottom: 15vw;
+  }
+  
+}
+
+
+/* #preloader{
+  background:#000 url(preloader.gif) no-repeat center center;
+  height:100vh ;
+  width:100% ;
+  position:fixed ;
+  z-index:100 ;
+} */

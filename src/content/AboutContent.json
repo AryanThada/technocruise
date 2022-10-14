@@ -1,0 +1,21 @@
+{
+  "title": "Ethical Hacking",
+  "text": "This module is designed to introduce the fundamentals of the Internet and its primary concepts, from their origin to the current trending concepts of the information security world.",
+  "section": [
+    {
+      "title": "Benefits",
+      "content": "Improve your knowledge of risks, vulnerabilities, and operational inefficiencies in systems",
+      "icon": "ethacking.svg"
+    },
+    {
+      "title": "Benefits",
+      "content": "Develop system penetration testing techniques to build your network security skill-set",
+      "icon": "ethacking2.svg"
+    },
+      {
+        "title": "Benefits",
+        "content": "Certificate of Participation for each participant from Techkriti, IIT Kanpur",
+        "icon": "certificate2.svg"
+      }
+  ]
+}

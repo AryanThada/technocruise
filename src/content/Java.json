@@ -1,0 +1,21 @@
+{
+    "title": "Bluetooth Robotics",
+    "text": "Bluendroid is a workshop which focuses on Bluetooth technology. As robots advance, so is the ability to communicate with them. Today’s remote-controlled robot are often wireless, which is typically done by using devices via Bluetooth communication. The workshop would deal with Bluetooth module calibration to provide a sense of environment to the Robot.",
+    "section": [
+      {
+        "title": "Benefits",
+        "content": "Learn to wirelessly control and program robots, and automate tasks",
+        "icon": "bluetooth.svg"
+      },
+      {
+        "title": "Benefits",
+        "content": "Understand the implementation of the Bluetooth technology in issuing instructions to a robot",
+        "icon": "robots.svg"
+      },
+      {
+        "title": "Benefits",
+        "content": "Certificate of Participation for each participant from Techkriti, IIT Kanpur",
+        "icon": "certificate3.svg"
+      }
+    ]
+  }
