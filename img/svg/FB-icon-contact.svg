@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="28"
+   height="28"
+   viewBox="0 0 28 28"
+   fill="none"
+   version="1.1"
+   id="svg134"
+   sodipodi:docname="FB-icon-contact.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs138" />
+  <sodipodi:namedview
+     id="namedview136"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="8.4285714"
+     inkscape:cx="3.559322"
+     inkscape:cy="14"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg134" />
+  <path
+     d="M26.8836 0.09021H1.2066C0.589097 0.09021 0.09021 0.589097 0.09021 1.2066V26.8836C0.09021 27.5011 0.589097 28 1.2066 28H26.8836C27.5011 28 28 27.5011 28 26.8836V1.2066C28 0.589097 27.5011 0.09021 26.8836 0.09021ZM23.66 8.23637H21.4307C19.6829 8.23637 19.3445 9.06669 19.3445 10.2877V12.9775H23.517L22.9727 17.1884H19.3445V28H14.994V17.1919H11.3553V12.9775H14.994V9.87259C14.994 6.26874 17.1954 4.30459 20.412 4.30459C21.954 4.30459 23.2763 4.41971 23.6635 4.47204V8.23637H23.66Z"
+     fill="#07EFF2"
+     id="path132"
+     style="fill:#3b5a9a;fill-opacity:1" />
+</svg>
